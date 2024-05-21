@@ -24,6 +24,10 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "Cargo",
+			"Enabled": true
 		}
 	]
 }

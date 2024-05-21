@@ -1,0 +1,1 @@
+B:\UnrealEngine\UE_5.3\Engine\Build\BatchFiles\RunUAT.bat BuildPlugin -Plugin="B:\Projects\XHoverCarDemo\Plugins\XHoverCar\XHoverCar.uplugin" -Package="B:\Projects\XHoverCarDemo\Builds\XHoverCar" -Rocket -2019
